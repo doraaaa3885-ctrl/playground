@@ -1,1 +1,1 @@
-{"name":"play-together","private":true,"type":"module","scripts":{"test":"node tests.mjs","start":"python -m http.server 8765 --bind 127.0.0.1 --directory dist"}}
+{"name":"play-together","private":true,"type":"module","scripts":{"test":"node tests-world.mjs","start":"python -m http.server 8765 --bind 127.0.0.1 --directory dist"}}
