@@ -1,0 +1,17 @@
+# Local dependencies and generated files
+node_modules/
+outputs/
+work/
+coverage/
+*.log
+*.tar.gz
+*.zip
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
